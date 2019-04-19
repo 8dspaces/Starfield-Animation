@@ -70,8 +70,6 @@ class StarField():
 
 import tkinter as tk
 from tkinter import *
-from time import sleep
-from tkinter import font
 
 root = Tk()
 background = Canvas(root, width=300, height=300, background='black')
