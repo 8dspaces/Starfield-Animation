@@ -17,7 +17,6 @@ class StarField():
         self.HEIGHT = height
         self.COLORS = ["white", "yellow", "red", "grey"]
         self.canvas = canvas
-        self.message = message
      
     @staticmethod    
     def create_circle(canvasName, x, y, r, color): #center coordinates, radius 
